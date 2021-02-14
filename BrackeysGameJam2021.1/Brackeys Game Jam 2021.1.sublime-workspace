@@ -1,0 +1,519 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"else",
+				"elseif\tElse If"
+			],
+			[
+				"for",
+				"foreach\tForEach"
+			],
+			[
+				"s",
+				"struct\tStruct"
+			],
+			[
+				"type",
+				"typeparamref\tTypeparamref documentation tag"
+			],
+			[
+				"fin",
+				"finalFlavor"
+			],
+			[
+				"ask",
+				"askForSprinkes"
+			],
+			[
+				"ca",
+				"cake"
+			],
+			[
+				"as",
+				"askFlavor"
+			],
+			[
+				"cake",
+				"cakeSize"
+			],
+			[
+				"askf",
+				"askForCakeSize"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"clear",
+				"clearl"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"test",
+				"testFunction"
+			],
+			[
+				"el",
+				"elseif\tSnippet - else if"
+			],
+			[
+				"porta",
+				"portalsOpen"
+			],
+			[
+				"t",
+				"tp\ttemplate <typename ${1:_InputIter}>"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Assets/Scripts/PlayerSpawn.cs",
+			"settings":
+			{
+				"buffer_size": 547,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Assets/PlayerMovement.cs",
+			"settings":
+			{
+				"buffer_size": 740,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"package controll in",
+				"Package Control: Install Package"
+			],
+			[
+				"package contrill",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"pakage controll",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"Snippet: ",
+				"Snippet: For Loop"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 414.0,
+		"history":
+		[
+			"Install PackageControl",
+			"Install Package Control"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/GameDev/Engine/Unity/GameJam/BrackeysGameJam2021.1/Assets/Scripts"
+	],
+	"file_history":
+	[
+		"/D/GameDev/Engine/Unity/Games/Blocky/Blocky/Assets/Scripts/Player.cs",
+		"/D/GameDev/Engine/Unity/GameJam/BrackeysGameJam2021.1/Brackeys Game Jam 2021.1.sublime-project",
+		"/D/GameDev/Engine/Unity/GameJam/Brackeys Game Jam 2021.1/2021.1/Assets/Scripts/PlayerSpawn.cs",
+		"/D/GameDev/Engine/Unity/GameJam/Brackeys Game Jam 2021.1/Game",
+		"/D/GameDev/Engine/Unity/GameJam/Brackeys Game Jam 2021.1/Jam",
+		"/D/GameDev/Engine/Unity/GameJam/Brackeys",
+		"/D/GameDev/Engine/Unity/GameJam/Brackeys Game Jam 2021.1/Brackeys Game Jam 2021.1.sublime-project",
+		"/D/GameDev/Engine/Unity/GameJam/Brackeys Game Jam 2021.1/2021.1/Assets/PlayerSpawn.cs",
+		"/\"0 ",
+		"/D/GameDev/Engine/Unity/New Unity Project/Project/Assets/PlayerSpawn.cs",
+		"/D/GameDev/Engine/Unity/New Unity Project/Unity",
+		"/D/GameDev/Engine/Unity/New",
+		"/D/GameDev/Engine/Unity/tools/collectionthing/collectionThing/Assets/Scripts/SpawnParticle.cs",
+		"/D/GameDev/Engine/Unity/tools/collectionthing/collectionThing/Assets/Scripts/ClickerButton.cs",
+		"/D/GameDev/Engine/Unity/tools/collectionthing/collectionThing/Assets/Scripts/CollectorButton.cs",
+		"/D/GameDev/Engine/Unity/tools/collectionthing/collectionThing/Assets/Scripts/diamond.cs",
+		"/D/GameDev/Engine/Unity/tools/collectionthing/collectionThing/Assets/Scripts/SineWave.cs",
+		"/D/GameDev/Engine/Unity/tools/collectionthing/collectionThing/Assets/Scripts/EventSystemController.cs",
+		"/D/GameDev/Engine/Unity/tools/collectionthing/collectionThing/Assets/Scripts/GameEvents.cs",
+		"/D/GameDev/Engine/Unity/tools/collectionthing/collectionThing/Assets/Scripts/GameData.cs",
+		"/D/GameDev/Engine/Unity/tools/collectionthing/collectionThing/Assets/Scripts/ValueUpdate.cs",
+		"/C/Users/phili/AppData/Local/Temp/Temp1_videos-master.zip/videos-master/EmbeddingLua1.lua",
+		"/C/Users/phili/Desktop/olcConsoleGameEngine.h",
+		"/D/GameDev/Engine/Unity/tools/collectionthing/collectionThing/Assets/Scripts/SpawnParticles.cs",
+		"/D/GameDev/Engine/Unity/tools/collectionthing/collectionThing/Assets/Scripts/spawnParticles.cs",
+		"/D/GameDev/Engine/Unity/tools/collectionthing/collectionThing/Assets/GameObjectManeger.cs",
+		"/D/GameDev/Engine/Unity/tools/collectionthing/collectionThing/Library/PackageCache/com.unity.textmeshpro@3.0.1/Scripts/Runtime/TextMeshPro.cs",
+		"/D/GameDev/Engine/Unity/tools/collectionthing/collectionThing/Assets/EventSystemController.cs",
+		"/D/GameDev/Engine/Unity/tools/collectionthing/collectionThing/Assets/GameEvents.cs",
+		"/D/GameDev/Engine/Unity/tools/collectionthing/collectionThing/Assets/GameData.cs",
+		"/D/GameDev/Engine/Unity/tools/collectionthing/collectionThing/Assets/ValueUpdate.cs",
+		"/D/GameDev/Engine/Unity/tools/collectionthing/collectionThing/Assets/ClickerButton.cs",
+		"/D/GameDev/Engine/Unity/tools/collectionthing/collectionThing/Assets/CollectorButton.cs",
+		"/D/GameDev/Engine/Unity/tools/collectionthing/collectionThing/Assets/LogicValue.cs",
+		"/D/GameDev/Engine/Unity/tools/collectionthing/collectionThing/Assets/spawnParticles.cs",
+		"/D/GameDev/Engine/Unity/tools/collectionthing/collectionThing/Assets/diamond.cs",
+		"/D/GameDev/Engine/Unity/tools/collectionthing/collectionThing/Assets/SineWave.cs",
+		"/D/GameDev/Engine/Unity/tools/collection",
+		"/D/GameDev/Engine/Unity/tools/collection thing/collectionThing/thing/collectionThing/Assets/SineWave.cs",
+		"/D/GameDev/Engine/Unity/Games/Blocky/Blocky/Assets/Scripts/levelEditor/StopPlayer.cs",
+		"/D/GameDev/Engine/Unity/Games/Blocky/Blocky/Assets/Scripts/levelEditor/PlayerControlls.cs",
+		"/D/GameDev/Engine/Unity/Games/Blocky/Blocky/Assets/Scripts/LevelManager.cs",
+		"/D/GameDev/Engine/Unity/Games/Blocky/Blocky/Assets/Scripts/GameUI.cs",
+		"/D/GameDev/Engine/Unity/Games/Blocky/Blocky/Assets/Scripts/levelEditor/CameraGuider.cs",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/phili/Desktop/Unity/Games/Blocky/Assets/Scripts/levelEditor/Teleporter.cs",
+		"/C/Users/phili/Desktop/Unity/Games/Blocky/Assets/Trigger_Checkpoint.cs",
+		"/C/Users/phili/Desktop/Unity/Games/Blocky/Assets/Editor/BrushTool.cs",
+		"/C/Users/phili/Desktop/Unity/Games/Blocky/Assets/Scripts/levelEditor/tools/BrushCreator.cs",
+		"/C/Users/phili/Desktop/Unity/Games/Blocky/Assets/Scripts/levelEditor/Timescale.cs",
+		"/C/Users/phili/Desktop/Unity/Games/Blocky/Assets/Scripts/Player.cs",
+		"/C/Users/phili/Desktop/Unity/Games/Blocky/Assets/Scripts/LevelManager.cs",
+		"/C/Users/phili/Desktop/Unity/Games/Blocky/Assets/Scripts/GameUI.cs",
+		"/C/Users/phili/Desktop/Unity/Games/Blocky/Assets/Scripts/levelEditor/StopPlayer.cs",
+		"/C/Users/phili/Desktop/Unity/Games/Blocky/Assets/Scripts/levelEditor/PlayerControlls.cs",
+		"/C/Users/phili/Desktop/Unity/Games/Blocky/Assets/Scripts/mainCamera.cs",
+		"/C/Users/phili/Desktop/Unity/Games/Blocky/Assets/Scripts/levelEditor/CameraGuider.cs",
+		"/C/Users/phili/Downloads/message (3).txt",
+		"/C/Users/phili/Desktop/Unity/Games/Blocky/Assets/editor/BrushTool.cs",
+		"/C/Users/phili/Desktop/Unity/Games/Blocky/Assets/Scripts/levelEditor/tools/BrushTool.cs",
+		"/C/Users/phili/Desktop/Unity/Games/Blocky/Assets/timescale.cs",
+		"/C/Users/phili/Desktop/Unity/Games/Blocky/Assets/editor/Scripts/BrushTool.cs",
+		"/C/Users/phili/Downloads/malware.gtts",
+		"/C/Users/phili/Downloads/malware.txt",
+		"/C/Users/phili/Desktop/Unity/Games/Blocky/Assets/Level",
+		"/C/Users/phili/Desktop/Unity/Games/Blocky/Editor/scripts/Timescale.cs",
+		"/C/Users/phili/Desktop/Unity/Games/Blocky/Assets/editor/scripts/Timescale.cs",
+		"/C/Users/phili/Desktop/terrible code fix/draft.py",
+		"/C/Users/phili/Desktop/terrible code fix/original.py",
+		"/C/Users/phili/Desktop/terrible code fix/draft",
+		"/C/Users/phili/Desktop/Unity/Games/Latin Regional 4.0/Assets/Scripts/new/EnemyAI.cs",
+		"/C/Users/phili/Downloads/i will find errors.py",
+		"/C/Users/phili/Desktop/Unity/Games/Latin Regional 4.0/4.0/Assets/Scripts/new/EnemyAI.cs",
+		"/C/Users/phili/Downloads/message (1).py",
+		"/C/Users/phili/Desktop/Unity/Games/Latin",
+		"/C/Users/phili/Desktop/Unity/Games/Latin Regional 4.0/Regional",
+		"/C/Users/phili/Desktop/Unity/Games/Latin Regional 4.0/4.0/Assets/Scripts/new/LightSequence.cs",
+		"/C/Users/phili/Downloads/message (1).txt",
+		"/C/Program Files/PuTTY/README.txt",
+		"/C/Users/phili/Desktop/minecraft server/sew server/server.properties",
+		"/C/Users/phili/Desktop/minecraft server/sew server/eula.txt",
+		"/C/Users/phili/Desktop/poop.py",
+		"/C/Users/phili/Desktop/mods/kenetics/build.gradle",
+		"/C/Users/phili/Desktop/mods/kenetics/run/crash-reports/crash-2021-01-21_17.00.11-fml.txt",
+		"/C/Users/phili/Desktop/mods/kenetics/run/crash-reports/crash-2021-01-21_16.58.44-fml.txt",
+		"/C/Users/phili/Desktop/mods/the_greatest_mod_to_ever_exits/build.gradle",
+		"/C/Users/phili/Desktop/mods/the_greatest_mod_to_ever_exits/src/main/resources/META-INF/mods.toml",
+		"/C/Users/phili/Desktop/mods/the_greatest_mod_to_ever_exits/changelog.txt",
+		"/C/curseforge/minecraft/Instances/Instances/The Modded SMP/crash-reports/crash-2021-01-16_23.22.09-client.txt",
+		"/C/Users/phili/Desktop/Unity/Games/functional/Assets/FrontSensor.cs",
+		"/C/Users/phili/Desktop/Unity/Games/functional/Assets/RightSensor.cs",
+		"/C/Users/phili/Desktop/Unity/Games/functional/Assets/Robot.cs",
+		"/C/Users/phili/Desktop/Unity/Games/functional/Assets/Scripts/GateRandomizer.cs",
+		"/C/Users/phili/Desktop/Unity/Games/Latin Regional 4.0/4.0/Assets/Scripts/new/CameraMovement.cs",
+		"/C/Users/phili/Desktop/Unity/Games/Latin Regional 4.0/4.0/Assets/Scripts/Player.cs",
+		"/C/Users/phili/Desktop/Unity/Games/functional/Assets/scripts/FreeCam.cs",
+		"/C/Users/phili/Desktop/Unity/Games/Blocky/Assets/Scripts/Teleporter.cs",
+		"/C/Users/phili/Desktop/Unity/Games/cardriver/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/com.unity.ide.rider.asmdef",
+		"/C/Users/phili/Desktop/Unity/Games/Blocky/clocky.sublime-project",
+		"/D/SteamLibrary/steamapps/common/Portal 2/portal2_dlc2/scripts/editoritems.txt",
+		"/D/SteamLibrary/steamapps/common/Portal 2/portal2_dlc2/scripts/vscripts/videos/video_splitter.nut",
+		"/D/SteamLibrary/steamapps/common/Portal 2/portal2_dlc2/scripts/mod_lessons.txt",
+		"/D/SteamLibrary/steamapps/common/Portal 2/portal2_dlc2/scripts/game_sounds_editor.txt",
+		"/D/SteamLibrary/steamapps/common/Portal 2/portal2_dlc2/resource/basemodui_pirate.txt",
+		"/D/SteamLibrary/steamapps/common/Portal 2/portal2_dlc2/resource/subtitles_pirate.txt",
+		"/D/SteamLibrary/steamapps/common/Portal 2/portal2_dlc2/resource/subtitles_turkish.dat",
+		"/D/SteamLibrary/steamapps/common/Portal 2/portal2_dlc2/gameinfo.txt",
+		"/D/SteamLibrary/steamapps/common/Portal 2/portal2_dlc2/scripts/extras.txt",
+		"/D/SteamLibrary/steamapps/common/Portal 2/portal2/media/attractvids.txt",
+		"/C/curseforge/minecraft/Instances/Instances/The Modded SMP/shaderpacks/SEUS-Renewed-v1.0.1.zip.txt",
+		"/C/Users/phili/Desktop/model/decompiled/metal_box.qc",
+		"/D/SteamLibrary/steamapps/common/Portal 2/portal2/scripts/weapon_portalgun.txt",
+		"/C/Users/phili/Desktop/GameConfig.txt",
+		"/C/Users/phili/Desktop/Portal 2/portal2/scripts/dsp_presets.txt",
+		"/D/steamlibrary/steamapps/common/Portal 2/portal2/scripts/vscripts/custom/multiverse/activateportalbutton.nut",
+		"/D/SteamLibrary/steamapps/common/Portal 2/bin/GameConfig.txt",
+		"/D/SteamLibrary/steamapps/common/Portal 2/portal2/gameinfo_srgb.txt",
+		"/D/SteamLibrary/steamapps/common/Portal 2/portal2/gameinfo.txt",
+		"/D/SteamLibrary/steamapps/common/Portal 2/portal2/cfg/autoexec.cfg",
+		"/D/SteamLibrary/steamapps/common/Portal 2/portal2/cfg/autoexecute.txt",
+		"/C/Program Files (x86)/Steam/steamapps/sourcemods/prisonescape/resource/clientscheme.res",
+		"/C/Users/phili/Desktop/new portal gun/e_portalgun.qc",
+		"/C/Program Files (x86)/Steam/steamapps/common/Portal 2/portal2/scripts/weapon_portalgun.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/Portal 2/portal2/scripts/weapon_cubemap.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/Portal 2/portal2/scripts/vscripts/custom/multiverse/Artifact_01.nut",
+		"/C/Users/phili/Downloads/08_28_2020_cp_sabotage_casual.txt",
+		"/C/Users/phili/Desktop/new portal gun/v_portalgun.qc",
+		"/C/Program Files (x86)/Steam/steamapps/common/Portal 2/portal2/scripts/vscripts/custom/multiverse/ActivatePortalButton.nut"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"Clip Viewed",
+			"*= -1",
+			"{",
+			"{}",
+			"{1,1,0}",
+			"triProjected",
+			"intersect",
+			"gameData",
+			"pointMeterMaxTextGO",
+			"collectObject",
+			"CollectorButton",
+			"x",
+			"0",
+			"amount",
+			"destroyObject",
+			"amount"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Assets/Scripts/PlayerSpawn.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 547,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								468,
+								468
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Assets/PlayerMovement.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 740,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								448,
+								448
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 209.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 364.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "Brackeys Game Jam 2021.1.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
